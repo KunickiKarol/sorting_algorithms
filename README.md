@@ -19,7 +19,12 @@ Clic ENTER
 
 Then write len of list to sort
 
+
+Clic ENTER
+
 Then write all elements (be careful len) use space to write next element
+
+Clic ENTER
 
 Then one more mystery question in console and voila. You can see what program do and summary
 
