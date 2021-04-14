@@ -47,25 +47,25 @@ frames = [df_1000mq, cos]
 elo = pd.concat(frames)
 df_1000mq['name_id'] = df_1000mq.groupby('name').grouper.group_info[0]
 
-# %% 
+ 
 sns.lineplot(data = df_1000mq, x = 'amount', y = 'chn', hue = 'name')
-#%%
+
 sns.lineplot(data = elo, x = 'amount', y = 'const', hue = 'name')
 
-# %%
+
 fig = px.scatter_matrix(data_frame = df_1000mq, 
                         dimensions = ['amount', 'compare', 'changes', 
                                       'time', 'cn', 'chn', 'const'], 
                         title = "Anzaliza Algorytmow", color = "name")
 plot(fig)
 
-# %%
+
 fig = px.parallel_coordinates(data_frame = df_1000mq, 
                         dimensions = ['amount', 'compare', 'changes', 'time',
                                       'cn', 'chn', 'const'],
                         title = "Anzaliza Algorytmow", color="name_id")
 plot(fig)
-# %%
+
 fig = px.scatter(data_frame=df_1000mq, x='time', y='const', size='changes',
                  color='name', size_max=10, animation_frame='amount', 
                  range_y=[0, 2.5], range_x=[0.0001, 0.08])
