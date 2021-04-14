@@ -67,5 +67,5 @@ ans = pd.DataFrame(ans, columns=['amazing', 'dual', 'merge', 'quick'],
                     index = ['amazing', 'dual', 'merge', 'quick'])
 info= classification_report(target_test, y_pred)
 score = model.score(data_test, target_test)
-# %%
+
 plot(fig)
