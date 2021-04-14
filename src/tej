@@ -1,0 +1,92 @@
+[
+    {
+        "name": "insert",
+        "compare": 9,
+        "changes": 0,
+        "time": 4.0531158447265625e-06
+    },
+    {
+        "name": "merge",
+        "compare": 15,
+        "changes": 34,
+        "time": 1.5497207641601562e-05
+    },
+    {
+        "name": "quick",
+        "compare": 43,
+        "changes": 12,
+        "time": 1.7404556274414062e-05
+    },
+    {
+        "name": "dual",
+        "compare": 45,
+        "changes": 20,
+        "time": 2.0742416381835938e-05
+    },
+    {
+        "name": "amazing",
+        "compare": 20,
+        "changes": 9,
+        "time": 6.198883056640625e-06
+    },
+    {
+        "name": "insert",
+        "compare": 45,
+        "changes": 54,
+        "time": 1.9073486328125e-05
+    },
+    {
+        "name": "merge",
+        "compare": 19,
+        "changes": 34,
+        "time": 1.4066696166992188e-05
+    },
+    {
+        "name": "quick",
+        "compare": 57,
+        "changes": 22,
+        "time": 1.6689300537109375e-05
+    },
+    {
+        "name": "dual",
+        "compare": 45,
+        "changes": 30,
+        "time": 8.58306884765625e-06
+    },
+    {
+        "name": "amazing",
+        "compare": 20,
+        "changes": 18,
+        "time": 5.0067901611328125e-06
+    },
+    {
+        "name": "insert",
+        "compare": 43,
+        "changes": 48,
+        "time": 8.344650268554688e-06
+    },
+    {
+        "name": "merge",
+        "compare": 18,
+        "changes": 34,
+        "time": 2.4557113647460938e-05
+    },
+    {
+        "name": "quick",
+        "compare": 52,
+        "changes": 22,
+        "time": 1.7404556274414062e-05
+    },
+    {
+        "name": "dual",
+        "compare": 29,
+        "changes": 30,
+        "time": 8.106231689453125e-06
+    },
+    {
+        "name": "amazing",
+        "compare": 20,
+        "changes": 26,
+        "time": 6.4373016357421875e-06
+    }
+]

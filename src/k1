@@ -1,0 +1,3502 @@
+[
+    {
+        "name": "insert",
+        "amount": 100,
+        "compare": 2500,
+        "changes": 2505,
+        "time": 0.0007889270782470703
+    },
+    {
+        "name": "merge",
+        "amount": 100,
+        "compare": 494,
+        "changes": 672,
+        "time": 0.0003807544708251953
+    },
+    {
+        "name": "quick",
+        "amount": 100,
+        "compare": 935,
+        "changes": 372,
+        "time": 0.00025916099548339844
+    },
+    {
+        "name": "dual",
+        "amount": 100,
+        "compare": 691,
+        "changes": 547,
+        "time": 0.00022721290588378906
+    },
+    {
+        "name": "amazing",
+        "amount": 100,
+        "compare": 593,
+        "changes": 396,
+        "time": 0.00018596649169921875
+    },
+    {
+        "name": "insert",
+        "amount": 200,
+        "compare": 10682,
+        "changes": 10684,
+        "time": 0.003404378890991211
+    },
+    {
+        "name": "merge",
+        "amount": 200,
+        "compare": 979,
+        "changes": 1544,
+        "time": 0.0007333755493164062
+    },
+    {
+        "name": "quick",
+        "amount": 200,
+        "compare": 2384,
+        "changes": 810,
+        "time": 0.0004677772521972656
+    },
+    {
+        "name": "dual",
+        "amount": 200,
+        "compare": 1345,
+        "changes": 1431,
+        "time": 0.0005090236663818359
+    },
+    {
+        "name": "amazing",
+        "amount": 200,
+        "compare": 1763,
+        "changes": 821,
+        "time": 0.00041556358337402344
+    },
+    {
+        "name": "insert",
+        "amount": 300,
+        "compare": 21477,
+        "changes": 21483,
+        "time": 0.008082389831542969
+    },
+    {
+        "name": "merge",
+        "amount": 300,
+        "compare": 1761,
+        "changes": 2488,
+        "time": 0.0011844635009765625
+    },
+    {
+        "name": "quick",
+        "amount": 300,
+        "compare": 3795,
+        "changes": 1354,
+        "time": 0.0008089542388916016
+    },
+    {
+        "name": "dual",
+        "amount": 300,
+        "compare": 2367,
+        "changes": 2705,
+        "time": 0.0008788108825683594
+    },
+    {
+        "name": "amazing",
+        "amount": 300,
+        "compare": 2527,
+        "changes": 1432,
+        "time": 0.0006377696990966797
+    },
+    {
+        "name": "insert",
+        "amount": 400,
+        "compare": 41822,
+        "changes": 41827,
+        "time": 0.014059782028198242
+    },
+    {
+        "name": "merge",
+        "amount": 400,
+        "compare": 2383,
+        "changes": 3488,
+        "time": 0.0015728473663330078
+    },
+    {
+        "name": "quick",
+        "amount": 400,
+        "compare": 5473,
+        "changes": 1820,
+        "time": 0.0011796951293945312
+    },
+    {
+        "name": "dual",
+        "amount": 400,
+        "compare": 3477,
+        "changes": 3634,
+        "time": 0.0011188983917236328
+    },
+    {
+        "name": "amazing",
+        "amount": 400,
+        "compare": 4218,
+        "changes": 1939,
+        "time": 0.0010571479797363281
+    },
+    {
+        "name": "insert",
+        "amount": 500,
+        "compare": 61534,
+        "changes": 61543,
+        "time": 0.020171403884887695
+    },
+    {
+        "name": "merge",
+        "amount": 500,
+        "compare": 3159,
+        "changes": 4488,
+        "time": 0.0020771026611328125
+    },
+    {
+        "name": "quick",
+        "amount": 500,
+        "compare": 6214,
+        "changes": 2398,
+        "time": 0.0013890266418457031
+    },
+    {
+        "name": "dual",
+        "amount": 500,
+        "compare": 4104,
+        "changes": 4077,
+        "time": 0.0013232231140136719
+    },
+    {
+        "name": "amazing",
+        "amount": 500,
+        "compare": 4721,
+        "changes": 2495,
+        "time": 0.0011415481567382812
+    },
+    {
+        "name": "insert",
+        "amount": 600,
+        "compare": 89975,
+        "changes": 89979,
+        "time": 0.03212451934814453
+    },
+    {
+        "name": "merge",
+        "amount": 600,
+        "compare": 4059,
+        "changes": 5576,
+        "time": 0.0027103424072265625
+    },
+    {
+        "name": "quick",
+        "amount": 600,
+        "compare": 8950,
+        "changes": 2884,
+        "time": 0.0017445087432861328
+    },
+    {
+        "name": "dual",
+        "amount": 600,
+        "compare": 5439,
+        "changes": 5188,
+        "time": 0.0018298625946044922
+    },
+    {
+        "name": "amazing",
+        "amount": 600,
+        "compare": 6479,
+        "changes": 3025,
+        "time": 0.0015456676483154297
+    },
+    {
+        "name": "insert",
+        "amount": 700,
+        "compare": 122960,
+        "changes": 122961,
+        "time": 0.04079699516296387
+    },
+    {
+        "name": "merge",
+        "amount": 700,
+        "compare": 4456,
+        "changes": 6676,
+        "time": 0.005785942077636719
+    },
+    {
+        "name": "quick",
+        "amount": 700,
+        "compare": 9238,
+        "changes": 3452,
+        "time": 0.003580808639526367
+    },
+    {
+        "name": "dual",
+        "amount": 700,
+        "compare": 6282,
+        "changes": 5840,
+        "time": 0.002359628677368164
+    },
+    {
+        "name": "amazing",
+        "amount": 700,
+        "compare": 6941,
+        "changes": 3661,
+        "time": 0.0018312931060791016
+    },
+    {
+        "name": "insert",
+        "amount": 800,
+        "compare": 155276,
+        "changes": 155281,
+        "time": 0.05609583854675293
+    },
+    {
+        "name": "merge",
+        "amount": 800,
+        "compare": 5531,
+        "changes": 7776,
+        "time": 0.003558635711669922
+    },
+    {
+        "name": "quick",
+        "amount": 800,
+        "compare": 10885,
+        "changes": 4060,
+        "time": 0.0022706985473632812
+    },
+    {
+        "name": "dual",
+        "amount": 800,
+        "compare": 7538,
+        "changes": 8031,
+        "time": 0.002644777297973633
+    },
+    {
+        "name": "amazing",
+        "amount": 800,
+        "compare": 8286,
+        "changes": 4254,
+        "time": 0.0020134449005126953
+    },
+    {
+        "name": "insert",
+        "amount": 900,
+        "compare": 202106,
+        "changes": 202113,
+        "time": 0.07168102264404297
+    },
+    {
+        "name": "merge",
+        "amount": 900,
+        "compare": 6358,
+        "changes": 8876,
+        "time": 0.0039539337158203125
+    },
+    {
+        "name": "quick",
+        "amount": 900,
+        "compare": 12701,
+        "changes": 4618,
+        "time": 0.0026733875274658203
+    },
+    {
+        "name": "dual",
+        "amount": 900,
+        "compare": 9160,
+        "changes": 9744,
+        "time": 0.003139019012451172
+    },
+    {
+        "name": "amazing",
+        "amount": 900,
+        "compare": 9870,
+        "changes": 4831,
+        "time": 0.0023756027221679688
+    },
+    {
+        "name": "insert",
+        "amount": 1000,
+        "compare": 261210,
+        "changes": 261215,
+        "time": 0.08797502517700195
+    },
+    {
+        "name": "merge",
+        "amount": 1000,
+        "compare": 6787,
+        "changes": 9976,
+        "time": 0.004403114318847656
+    },
+    {
+        "name": "quick",
+        "amount": 1000,
+        "compare": 14369,
+        "changes": 5276,
+        "time": 0.0029189586639404297
+    },
+    {
+        "name": "dual",
+        "amount": 1000,
+        "compare": 9625,
+        "changes": 9360,
+        "time": 0.0031991004943847656
+    },
+    {
+        "name": "amazing",
+        "amount": 1000,
+        "compare": 11215,
+        "changes": 5495,
+        "time": 0.002725362777709961
+    },
+    {
+        "name": "insert",
+        "amount": 1100,
+        "compare": 299725,
+        "changes": 299728,
+        "time": 0.10617303848266602
+    },
+    {
+        "name": "merge",
+        "amount": 1100,
+        "compare": 7319,
+        "changes": 11152,
+        "time": 0.004986286163330078
+    },
+    {
+        "name": "quick",
+        "amount": 1100,
+        "compare": 15500,
+        "changes": 5760,
+        "time": 0.0032112598419189453
+    },
+    {
+        "name": "dual",
+        "amount": 1100,
+        "compare": 12369,
+        "changes": 11000,
+        "time": 0.00403141975402832
+    },
+    {
+        "name": "amazing",
+        "amount": 1100,
+        "compare": 11900,
+        "changes": 6081,
+        "time": 0.002865314483642578
+    },
+    {
+        "name": "insert",
+        "amount": 1200,
+        "compare": 364176,
+        "changes": 364184,
+        "time": 0.12321949005126953
+    },
+    {
+        "name": "merge",
+        "amount": 1200,
+        "compare": 8075,
+        "changes": 12352,
+        "time": 0.0053904056549072266
+    },
+    {
+        "name": "quick",
+        "amount": 1200,
+        "compare": 17476,
+        "changes": 6414,
+        "time": 0.003858327865600586
+    },
+    {
+        "name": "dual",
+        "amount": 1200,
+        "compare": 11602,
+        "changes": 11694,
+        "time": 0.0038771629333496094
+    },
+    {
+        "name": "amazing",
+        "amount": 1200,
+        "compare": 13661,
+        "changes": 6695,
+        "time": 0.003370046615600586
+    },
+    {
+        "name": "insert",
+        "amount": 1300,
+        "compare": 437262,
+        "changes": 437267,
+        "time": 0.15122628211975098
+    },
+    {
+        "name": "merge",
+        "amount": 1300,
+        "compare": 9000,
+        "changes": 13552,
+        "time": 0.006098747253417969
+    },
+    {
+        "name": "quick",
+        "amount": 1300,
+        "compare": 20470,
+        "changes": 6850,
+        "time": 0.0040836334228515625
+    },
+    {
+        "name": "dual",
+        "amount": 1300,
+        "compare": 13779,
+        "changes": 15299,
+        "time": 0.004860639572143555
+    },
+    {
+        "name": "amazing",
+        "amount": 1300,
+        "compare": 16400,
+        "changes": 7230,
+        "time": 0.003641843795776367
+    },
+    {
+        "name": "insert",
+        "amount": 1400,
+        "compare": 476903,
+        "changes": 476910,
+        "time": 0.16601848602294922
+    },
+    {
+        "name": "merge",
+        "amount": 1400,
+        "compare": 10102,
+        "changes": 14752,
+        "time": 0.007184505462646484
+    },
+    {
+        "name": "quick",
+        "amount": 1400,
+        "compare": 21342,
+        "changes": 7576,
+        "time": 0.005321979522705078
+    },
+    {
+        "name": "dual",
+        "amount": 1400,
+        "compare": 16076,
+        "changes": 13979,
+        "time": 0.005721330642700195
+    },
+    {
+        "name": "amazing",
+        "amount": 1400,
+        "compare": 16793,
+        "changes": 7921,
+        "time": 0.005309581756591797
+    },
+    {
+        "name": "insert",
+        "amount": 1500,
+        "compare": 555983,
+        "changes": 555992,
+        "time": 0.19315648078918457
+    },
+    {
+        "name": "merge",
+        "amount": 1500,
+        "compare": 10781,
+        "changes": 15952,
+        "time": 0.009438514709472656
+    },
+    {
+        "name": "quick",
+        "amount": 1500,
+        "compare": 22279,
+        "changes": 8248,
+        "time": 0.00482630729675293
+    },
+    {
+        "name": "dual",
+        "amount": 1500,
+        "compare": 15907,
+        "changes": 14748,
+        "time": 0.008005380630493164
+    },
+    {
+        "name": "amazing",
+        "amount": 1500,
+        "compare": 17611,
+        "changes": 8618,
+        "time": 0.006455659866333008
+    },
+    {
+        "name": "insert",
+        "amount": 1600,
+        "compare": 636922,
+        "changes": 636925,
+        "time": 0.22255277633666992
+    },
+    {
+        "name": "merge",
+        "amount": 1600,
+        "compare": 11553,
+        "changes": 17152,
+        "time": 0.007730245590209961
+    },
+    {
+        "name": "quick",
+        "amount": 1600,
+        "compare": 24217,
+        "changes": 8784,
+        "time": 0.005236387252807617
+    },
+    {
+        "name": "dual",
+        "amount": 1600,
+        "compare": 19337,
+        "changes": 16983,
+        "time": 0.006109952926635742
+    },
+    {
+        "name": "amazing",
+        "amount": 1600,
+        "compare": 19138,
+        "changes": 9217,
+        "time": 0.004760026931762695
+    },
+    {
+        "name": "insert",
+        "amount": 1700,
+        "compare": 720493,
+        "changes": 720501,
+        "time": 0.24516797065734863
+    },
+    {
+        "name": "merge",
+        "amount": 1700,
+        "compare": 12765,
+        "changes": 18352,
+        "time": 0.00822758674621582
+    },
+    {
+        "name": "quick",
+        "amount": 1700,
+        "compare": 27871,
+        "changes": 9312,
+        "time": 0.005628108978271484
+    },
+    {
+        "name": "dual",
+        "amount": 1700,
+        "compare": 17936,
+        "changes": 18062,
+        "time": 0.0058133602142333984
+    },
+    {
+        "name": "amazing",
+        "amount": 1700,
+        "compare": 22509,
+        "changes": 9769,
+        "time": 0.00519108772277832
+    },
+    {
+        "name": "insert",
+        "amount": 1800,
+        "compare": 848650,
+        "changes": 848658,
+        "time": 0.2888963222503662
+    },
+    {
+        "name": "merge",
+        "amount": 1800,
+        "compare": 13739,
+        "changes": 19552,
+        "time": 0.008898496627807617
+    },
+    {
+        "name": "quick",
+        "amount": 1800,
+        "compare": 30576,
+        "changes": 9922,
+        "time": 0.006128072738647461
+    },
+    {
+        "name": "dual",
+        "amount": 1800,
+        "compare": 19444,
+        "changes": 20738,
+        "time": 0.006497383117675781
+    },
+    {
+        "name": "amazing",
+        "amount": 1800,
+        "compare": 24728,
+        "changes": 10377,
+        "time": 0.005524873733520508
+    },
+    {
+        "name": "insert",
+        "amount": 1900,
+        "compare": 880712,
+        "changes": 880719,
+        "time": 0.30220508575439453
+    },
+    {
+        "name": "merge",
+        "amount": 1900,
+        "compare": 14165,
+        "changes": 20752,
+        "time": 0.00950312614440918
+    },
+    {
+        "name": "quick",
+        "amount": 1900,
+        "compare": 31139,
+        "changes": 10562,
+        "time": 0.006340503692626953
+    },
+    {
+        "name": "dual",
+        "amount": 1900,
+        "compare": 21469,
+        "changes": 20959,
+        "time": 0.00710606575012207
+    },
+    {
+        "name": "amazing",
+        "amount": 1900,
+        "compare": 25083,
+        "changes": 11066,
+        "time": 0.005776882171630859
+    },
+    {
+        "name": "insert",
+        "amount": 2000,
+        "compare": 995579,
+        "changes": 995581,
+        "time": 0.34027934074401855
+    },
+    {
+        "name": "merge",
+        "amount": 2000,
+        "compare": 15896,
+        "changes": 21952,
+        "time": 0.010363340377807617
+    },
+    {
+        "name": "quick",
+        "amount": 2000,
+        "compare": 31015,
+        "changes": 11298,
+        "time": 0.006646394729614258
+    },
+    {
+        "name": "dual",
+        "amount": 2000,
+        "compare": 23915,
+        "changes": 22671,
+        "time": 0.0076541900634765625
+    },
+    {
+        "name": "amazing",
+        "amount": 2000,
+        "compare": 24664,
+        "changes": 11926,
+        "time": 0.006142854690551758
+    },
+    {
+        "name": "insert",
+        "amount": 2100,
+        "compare": 1131852,
+        "changes": 1131865,
+        "time": 0.3934330940246582
+    },
+    {
+        "name": "merge",
+        "amount": 2100,
+        "compare": 16633,
+        "changes": 23204,
+        "time": 0.011353731155395508
+    },
+    {
+        "name": "quick",
+        "amount": 2100,
+        "compare": 33984,
+        "changes": 11848,
+        "time": 0.007634401321411133
+    },
+    {
+        "name": "dual",
+        "amount": 2100,
+        "compare": 24367,
+        "changes": 22265,
+        "time": 0.007631540298461914
+    },
+    {
+        "name": "amazing",
+        "amount": 2100,
+        "compare": 27436,
+        "changes": 12410,
+        "time": 0.0065457820892333984
+    },
+    {
+        "name": "insert",
+        "amount": 2200,
+        "compare": 1206887,
+        "changes": 1206892,
+        "time": 0.4143505096435547
+    },
+    {
+        "name": "merge",
+        "amount": 2200,
+        "compare": 17119,
+        "changes": 24504,
+        "time": 0.011152505874633789
+    },
+    {
+        "name": "quick",
+        "amount": 2200,
+        "compare": 36046,
+        "changes": 12496,
+        "time": 0.007462263107299805
+    },
+    {
+        "name": "dual",
+        "amount": 2200,
+        "compare": 23579,
+        "changes": 23799,
+        "time": 0.007863283157348633
+    },
+    {
+        "name": "amazing",
+        "amount": 2200,
+        "compare": 29065,
+        "changes": 13093,
+        "time": 0.006673336029052734
+    },
+    {
+        "name": "insert",
+        "amount": 2300,
+        "compare": 1321660,
+        "changes": 1321664,
+        "time": 0.4565775394439697
+    },
+    {
+        "name": "merge",
+        "amount": 2300,
+        "compare": 18820,
+        "changes": 25804,
+        "time": 0.01201176643371582
+    },
+    {
+        "name": "quick",
+        "amount": 2300,
+        "compare": 39776,
+        "changes": 13146,
+        "time": 0.008068323135375977
+    },
+    {
+        "name": "dual",
+        "amount": 2300,
+        "compare": 26152,
+        "changes": 26080,
+        "time": 0.008725881576538086
+    },
+    {
+        "name": "amazing",
+        "amount": 2300,
+        "compare": 32504,
+        "changes": 13733,
+        "time": 0.008000612258911133
+    },
+    {
+        "name": "insert",
+        "amount": 2400,
+        "compare": 1400546,
+        "changes": 1400554,
+        "time": 0.48256921768188477
+    },
+    {
+        "name": "merge",
+        "amount": 2400,
+        "compare": 19668,
+        "changes": 27104,
+        "time": 0.01221776008605957
+    },
+    {
+        "name": "quick",
+        "amount": 2400,
+        "compare": 39001,
+        "changes": 13684,
+        "time": 0.008054018020629883
+    },
+    {
+        "name": "dual",
+        "amount": 2400,
+        "compare": 28939,
+        "changes": 29457,
+        "time": 0.009745359420776367
+    },
+    {
+        "name": "amazing",
+        "amount": 2400,
+        "compare": 31286,
+        "changes": 14339,
+        "time": 0.007117033004760742
+    },
+    {
+        "name": "insert",
+        "amount": 2500,
+        "compare": 1554660,
+        "changes": 1554668,
+        "time": 0.5276451110839844
+    },
+    {
+        "name": "merge",
+        "amount": 2500,
+        "compare": 19840,
+        "changes": 28404,
+        "time": 0.01318669319152832
+    },
+    {
+        "name": "quick",
+        "amount": 2500,
+        "compare": 43271,
+        "changes": 14530,
+        "time": 0.009402036666870117
+    },
+    {
+        "name": "dual",
+        "amount": 2500,
+        "compare": 28639,
+        "changes": 29448,
+        "time": 0.009810209274291992
+    },
+    {
+        "name": "amazing",
+        "amount": 2500,
+        "compare": 32780,
+        "changes": 15106,
+        "time": 0.007796049118041992
+    },
+    {
+        "name": "insert",
+        "amount": 2600,
+        "compare": 1690302,
+        "changes": 1690306,
+        "time": 0.6021709442138672
+    },
+    {
+        "name": "merge",
+        "amount": 2600,
+        "compare": 20828,
+        "changes": 29704,
+        "time": 0.013386726379394531
+    },
+    {
+        "name": "quick",
+        "amount": 2600,
+        "compare": 42382,
+        "changes": 15254,
+        "time": 0.00896596908569336
+    },
+    {
+        "name": "dual",
+        "amount": 2600,
+        "compare": 30179,
+        "changes": 27867,
+        "time": 0.009410381317138672
+    },
+    {
+        "name": "amazing",
+        "amount": 2600,
+        "compare": 34069,
+        "changes": 15838,
+        "time": 0.008204936981201172
+    },
+    {
+        "name": "insert",
+        "amount": 2700,
+        "compare": 1799726,
+        "changes": 1799736,
+        "time": 0.6585531234741211
+    },
+    {
+        "name": "merge",
+        "amount": 2700,
+        "compare": 21472,
+        "changes": 31004,
+        "time": 0.016664981842041016
+    },
+    {
+        "name": "quick",
+        "amount": 2700,
+        "compare": 44451,
+        "changes": 15776,
+        "time": 0.011584997177124023
+    },
+    {
+        "name": "dual",
+        "amount": 2700,
+        "compare": 30721,
+        "changes": 31324,
+        "time": 0.01207590103149414
+    },
+    {
+        "name": "amazing",
+        "amount": 2700,
+        "compare": 35746,
+        "changes": 16403,
+        "time": 0.008777618408203125
+    },
+    {
+        "name": "insert",
+        "amount": 2800,
+        "compare": 1960418,
+        "changes": 1960425,
+        "time": 0.6954913139343262
+    },
+    {
+        "name": "merge",
+        "amount": 2800,
+        "compare": 23634,
+        "changes": 32304,
+        "time": 0.01477503776550293
+    },
+    {
+        "name": "quick",
+        "amount": 2800,
+        "compare": 45686,
+        "changes": 16376,
+        "time": 0.009943962097167969
+    },
+    {
+        "name": "dual",
+        "amount": 2800,
+        "compare": 34198,
+        "changes": 31274,
+        "time": 0.01088571548461914
+    },
+    {
+        "name": "amazing",
+        "amount": 2800,
+        "compare": 36570,
+        "changes": 17140,
+        "time": 0.00874018669128418
+    },
+    {
+        "name": "insert",
+        "amount": 2900,
+        "compare": 2129246,
+        "changes": 2129255,
+        "time": 0.8378427028656006
+    },
+    {
+        "name": "merge",
+        "amount": 2900,
+        "compare": 23301,
+        "changes": 33604,
+        "time": 0.017939090728759766
+    },
+    {
+        "name": "quick",
+        "amount": 2900,
+        "compare": 52384,
+        "changes": 17024,
+        "time": 0.011336326599121094
+    },
+    {
+        "name": "dual",
+        "amount": 2900,
+        "compare": 34680,
+        "changes": 33867,
+        "time": 0.012676715850830078
+    },
+    {
+        "name": "amazing",
+        "amount": 2900,
+        "compare": 40246,
+        "changes": 17739,
+        "time": 0.020852088928222656
+    },
+    {
+        "name": "insert",
+        "amount": 3000,
+        "compare": 2249048,
+        "changes": 2249056,
+        "time": 0.863579273223877
+    },
+    {
+        "name": "merge",
+        "amount": 3000,
+        "compare": 23257,
+        "changes": 34904,
+        "time": 0.017348289489746094
+    },
+    {
+        "name": "quick",
+        "amount": 3000,
+        "compare": 49115,
+        "changes": 17868,
+        "time": 0.010885000228881836
+    },
+    {
+        "name": "dual",
+        "amount": 3000,
+        "compare": 35757,
+        "changes": 32435,
+        "time": 0.01270437240600586
+    },
+    {
+        "name": "amazing",
+        "amount": 3000,
+        "compare": 39602,
+        "changes": 18571,
+        "time": 0.010748147964477539
+    },
+    {
+        "name": "insert",
+        "amount": 3100,
+        "compare": 2420256,
+        "changes": 2420268,
+        "time": 0.8395295143127441
+    },
+    {
+        "name": "merge",
+        "amount": 3100,
+        "compare": 26466,
+        "changes": 36204,
+        "time": 0.01938939094543457
+    },
+    {
+        "name": "quick",
+        "amount": 3100,
+        "compare": 52552,
+        "changes": 18582,
+        "time": 0.011318683624267578
+    },
+    {
+        "name": "dual",
+        "amount": 3100,
+        "compare": 36092,
+        "changes": 35497,
+        "time": 0.011879682540893555
+    },
+    {
+        "name": "amazing",
+        "amount": 3100,
+        "compare": 39627,
+        "changes": 19382,
+        "time": 0.009293317794799805
+    },
+    {
+        "name": "insert",
+        "amount": 3200,
+        "compare": 2538302,
+        "changes": 2538310,
+        "time": 0.9025659561157227
+    },
+    {
+        "name": "merge",
+        "amount": 3200,
+        "compare": 25974,
+        "changes": 37504,
+        "time": 0.017169475555419922
+    },
+    {
+        "name": "quick",
+        "amount": 3200,
+        "compare": 52028,
+        "changes": 19036,
+        "time": 0.011953115463256836
+    },
+    {
+        "name": "dual",
+        "amount": 3200,
+        "compare": 43473,
+        "changes": 41127,
+        "time": 0.013947725296020508
+    },
+    {
+        "name": "amazing",
+        "amount": 3200,
+        "compare": 41991,
+        "changes": 19783,
+        "time": 0.010142803192138672
+    },
+    {
+        "name": "insert",
+        "amount": 3300,
+        "compare": 2727304,
+        "changes": 2727312,
+        "time": 0.9981722831726074
+    },
+    {
+        "name": "merge",
+        "amount": 3300,
+        "compare": 26812,
+        "changes": 38804,
+        "time": 0.018707275390625
+    },
+    {
+        "name": "quick",
+        "amount": 3300,
+        "compare": 56414,
+        "changes": 19666,
+        "time": 0.012046337127685547
+    },
+    {
+        "name": "dual",
+        "amount": 3300,
+        "compare": 39868,
+        "changes": 37085,
+        "time": 0.012559890747070312
+    },
+    {
+        "name": "amazing",
+        "amount": 3300,
+        "compare": 45993,
+        "changes": 20356,
+        "time": 0.010532855987548828
+    },
+    {
+        "name": "insert",
+        "amount": 3400,
+        "compare": 2863191,
+        "changes": 2863195,
+        "time": 1.0465178489685059
+    },
+    {
+        "name": "merge",
+        "amount": 3400,
+        "compare": 28184,
+        "changes": 40104,
+        "time": 0.018924474716186523
+    },
+    {
+        "name": "quick",
+        "amount": 3400,
+        "compare": 55293,
+        "changes": 20590,
+        "time": 0.012897014617919922
+    },
+    {
+        "name": "dual",
+        "amount": 3400,
+        "compare": 40520,
+        "changes": 37618,
+        "time": 0.013998031616210938
+    },
+    {
+        "name": "amazing",
+        "amount": 3400,
+        "compare": 44483,
+        "changes": 21406,
+        "time": 0.011011362075805664
+    },
+    {
+        "name": "insert",
+        "amount": 3500,
+        "compare": 3064171,
+        "changes": 3064179,
+        "time": 1.1507630348205566
+    },
+    {
+        "name": "merge",
+        "amount": 3500,
+        "compare": 28259,
+        "changes": 41404,
+        "time": 0.01904463768005371
+    },
+    {
+        "name": "quick",
+        "amount": 3500,
+        "compare": 64598,
+        "changes": 20902,
+        "time": 0.013560056686401367
+    },
+    {
+        "name": "dual",
+        "amount": 3500,
+        "compare": 41528,
+        "changes": 41138,
+        "time": 0.013902425765991211
+    },
+    {
+        "name": "amazing",
+        "amount": 3500,
+        "compare": 49875,
+        "changes": 21868,
+        "time": 0.011213302612304688
+    },
+    {
+        "name": "insert",
+        "amount": 3600,
+        "compare": 3089578,
+        "changes": 3089585,
+        "time": 1.154090166091919
+    },
+    {
+        "name": "merge",
+        "amount": 3600,
+        "compare": 29647,
+        "changes": 42704,
+        "time": 0.020046472549438477
+    },
+    {
+        "name": "quick",
+        "amount": 3600,
+        "compare": 61768,
+        "changes": 21556,
+        "time": 0.013020753860473633
+    },
+    {
+        "name": "dual",
+        "amount": 3600,
+        "compare": 47442,
+        "changes": 43873,
+        "time": 0.01479792594909668
+    },
+    {
+        "name": "amazing",
+        "amount": 3600,
+        "compare": 50250,
+        "changes": 22524,
+        "time": 0.011896371841430664
+    },
+    {
+        "name": "insert",
+        "amount": 3700,
+        "compare": 3367281,
+        "changes": 3367288,
+        "time": 1.221769094467163
+    },
+    {
+        "name": "merge",
+        "amount": 3700,
+        "compare": 31260,
+        "changes": 44004,
+        "time": 0.020246267318725586
+    },
+    {
+        "name": "quick",
+        "amount": 3700,
+        "compare": 64645,
+        "changes": 22338,
+        "time": 0.013265132904052734
+    },
+    {
+        "name": "dual",
+        "amount": 3700,
+        "compare": 44685,
+        "changes": 41427,
+        "time": 0.014265060424804688
+    },
+    {
+        "name": "amazing",
+        "amount": 3700,
+        "compare": 52855,
+        "changes": 23324,
+        "time": 0.012396097183227539
+    },
+    {
+        "name": "insert",
+        "amount": 3800,
+        "compare": 3579166,
+        "changes": 3579172,
+        "time": 1.284001111984253
+    },
+    {
+        "name": "merge",
+        "amount": 3800,
+        "compare": 30493,
+        "changes": 45304,
+        "time": 0.021097421646118164
+    },
+    {
+        "name": "quick",
+        "amount": 3800,
+        "compare": 64608,
+        "changes": 23046,
+        "time": 0.01392054557800293
+    },
+    {
+        "name": "dual",
+        "amount": 3800,
+        "compare": 47213,
+        "changes": 42142,
+        "time": 0.015073060989379883
+    },
+    {
+        "name": "amazing",
+        "amount": 3800,
+        "compare": 52509,
+        "changes": 23972,
+        "time": 0.012403011322021484
+    },
+    {
+        "name": "insert",
+        "amount": 3900,
+        "compare": 3744336,
+        "changes": 3744344,
+        "time": 1.4464476108551025
+    },
+    {
+        "name": "merge",
+        "amount": 3900,
+        "compare": 30903,
+        "changes": 46604,
+        "time": 0.02317976951599121
+    },
+    {
+        "name": "quick",
+        "amount": 3900,
+        "compare": 66802,
+        "changes": 23674,
+        "time": 0.014368772506713867
+    },
+    {
+        "name": "dual",
+        "amount": 3900,
+        "compare": 46846,
+        "changes": 43764,
+        "time": 0.016618967056274414
+    },
+    {
+        "name": "amazing",
+        "amount": 3900,
+        "compare": 54315,
+        "changes": 24643,
+        "time": 0.01371908187866211
+    },
+    {
+        "name": "insert",
+        "amount": 4000,
+        "compare": 4026910,
+        "changes": 4026919,
+        "time": 1.4930107593536377
+    },
+    {
+        "name": "merge",
+        "amount": 4000,
+        "compare": 32353,
+        "changes": 47904,
+        "time": 0.02194070816040039
+    },
+    {
+        "name": "quick",
+        "amount": 4000,
+        "compare": 73832,
+        "changes": 24342,
+        "time": 0.015283346176147461
+    },
+    {
+        "name": "dual",
+        "amount": 4000,
+        "compare": 52634,
+        "changes": 49805,
+        "time": 0.019268035888671875
+    },
+    {
+        "name": "amazing",
+        "amount": 4000,
+        "compare": 57073,
+        "changes": 25306,
+        "time": 0.014145851135253906
+    },
+    {
+        "name": "insert",
+        "amount": 4100,
+        "compare": 4161283,
+        "changes": 4161290,
+        "time": 1.6599323749542236
+    },
+    {
+        "name": "merge",
+        "amount": 4100,
+        "compare": 32135,
+        "changes": 49208,
+        "time": 0.042832374572753906
+    },
+    {
+        "name": "quick",
+        "amount": 4100,
+        "compare": 74998,
+        "changes": 24782,
+        "time": 0.015871524810791016
+    },
+    {
+        "name": "dual",
+        "amount": 4100,
+        "compare": 50848,
+        "changes": 50652,
+        "time": 0.018622636795043945
+    },
+    {
+        "name": "amazing",
+        "amount": 4100,
+        "compare": 61880,
+        "changes": 25719,
+        "time": 0.02476215362548828
+    },
+    {
+        "name": "insert",
+        "amount": 4200,
+        "compare": 4434239,
+        "changes": 4434244,
+        "time": 1.6820588111877441
+    },
+    {
+        "name": "merge",
+        "amount": 4200,
+        "compare": 36892,
+        "changes": 50608,
+        "time": 0.02462935447692871
+    },
+    {
+        "name": "quick",
+        "amount": 4200,
+        "compare": 69218,
+        "changes": 26142,
+        "time": 0.014774322509765625
+    },
+    {
+        "name": "dual",
+        "amount": 4200,
+        "compare": 51724,
+        "changes": 51302,
+        "time": 0.01788616180419922
+    },
+    {
+        "name": "amazing",
+        "amount": 4200,
+        "compare": 55949,
+        "changes": 27101,
+        "time": 0.014689207077026367
+    },
+    {
+        "name": "insert",
+        "amount": 4300,
+        "compare": 4636478,
+        "changes": 4636484,
+        "time": 1.6365725994110107
+    },
+    {
+        "name": "merge",
+        "amount": 4300,
+        "compare": 36174,
+        "changes": 52008,
+        "time": 0.023328781127929688
+    },
+    {
+        "name": "quick",
+        "amount": 4300,
+        "compare": 77804,
+        "changes": 26528,
+        "time": 0.017142772674560547
+    },
+    {
+        "name": "dual",
+        "amount": 4300,
+        "compare": 52935,
+        "changes": 48431,
+        "time": 0.01829981803894043
+    },
+    {
+        "name": "amazing",
+        "amount": 4300,
+        "compare": 64135,
+        "changes": 27544,
+        "time": 0.014816045761108398
+    },
+    {
+        "name": "insert",
+        "amount": 4400,
+        "compare": 4859216,
+        "changes": 4859228,
+        "time": 1.7206313610076904
+    },
+    {
+        "name": "merge",
+        "amount": 4400,
+        "compare": 39218,
+        "changes": 53408,
+        "time": 0.025164127349853516
+    },
+    {
+        "name": "quick",
+        "amount": 4400,
+        "compare": 76683,
+        "changes": 26926,
+        "time": 0.017249107360839844
+    },
+    {
+        "name": "dual",
+        "amount": 4400,
+        "compare": 54804,
+        "changes": 58795,
+        "time": 0.01894402503967285
+    },
+    {
+        "name": "amazing",
+        "amount": 4400,
+        "compare": 62741,
+        "changes": 28081,
+        "time": 0.015177011489868164
+    },
+    {
+        "name": "insert",
+        "amount": 4500,
+        "compare": 4956027,
+        "changes": 4956033,
+        "time": 1.7564287185668945
+    },
+    {
+        "name": "merge",
+        "amount": 4500,
+        "compare": 38352,
+        "changes": 54808,
+        "time": 0.02567434310913086
+    },
+    {
+        "name": "quick",
+        "amount": 4500,
+        "compare": 80443,
+        "changes": 27400,
+        "time": 0.017030715942382812
+    },
+    {
+        "name": "dual",
+        "amount": 4500,
+        "compare": 57441,
+        "changes": 54783,
+        "time": 0.018632173538208008
+    },
+    {
+        "name": "amazing",
+        "amount": 4500,
+        "compare": 66247,
+        "changes": 28570,
+        "time": 0.015357255935668945
+    },
+    {
+        "name": "insert",
+        "amount": 4600,
+        "compare": 5233864,
+        "changes": 5233870,
+        "time": 1.8978641033172607
+    },
+    {
+        "name": "merge",
+        "amount": 4600,
+        "compare": 38515,
+        "changes": 56208,
+        "time": 0.026129722595214844
+    },
+    {
+        "name": "quick",
+        "amount": 4600,
+        "compare": 79933,
+        "changes": 28302,
+        "time": 0.017618656158447266
+    },
+    {
+        "name": "dual",
+        "amount": 4600,
+        "compare": 60298,
+        "changes": 57046,
+        "time": 0.0203096866607666
+    },
+    {
+        "name": "amazing",
+        "amount": 4600,
+        "compare": 65301,
+        "changes": 29449,
+        "time": 0.015501022338867188
+    },
+    {
+        "name": "insert",
+        "amount": 4700,
+        "compare": 5586659,
+        "changes": 5586671,
+        "time": 1.9719650745391846
+    },
+    {
+        "name": "merge",
+        "amount": 4700,
+        "compare": 41094,
+        "changes": 57608,
+        "time": 0.026583433151245117
+    },
+    {
+        "name": "quick",
+        "amount": 4700,
+        "compare": 82371,
+        "changes": 29386,
+        "time": 0.017193317413330078
+    },
+    {
+        "name": "dual",
+        "amount": 4700,
+        "compare": 59880,
+        "changes": 64314,
+        "time": 0.040448904037475586
+    },
+    {
+        "name": "amazing",
+        "amount": 4700,
+        "compare": 67316,
+        "changes": 30565,
+        "time": 0.015424966812133789
+    },
+    {
+        "name": "insert",
+        "amount": 4800,
+        "compare": 5730759,
+        "changes": 5730765,
+        "time": 2.1243622303009033
+    },
+    {
+        "name": "merge",
+        "amount": 4800,
+        "compare": 40279,
+        "changes": 59008,
+        "time": 0.028254032135009766
+    },
+    {
+        "name": "quick",
+        "amount": 4800,
+        "compare": 87527,
+        "changes": 29798,
+        "time": 0.020059823989868164
+    },
+    {
+        "name": "dual",
+        "amount": 4800,
+        "compare": 70472,
+        "changes": 58116,
+        "time": 0.022597312927246094
+    },
+    {
+        "name": "amazing",
+        "amount": 4800,
+        "compare": 67552,
+        "changes": 31000,
+        "time": 0.016759395599365234
+    },
+    {
+        "name": "insert",
+        "amount": 4900,
+        "compare": 6015140,
+        "changes": 6015150,
+        "time": 2.2580106258392334
+    },
+    {
+        "name": "merge",
+        "amount": 4900,
+        "compare": 40777,
+        "changes": 60408,
+        "time": 0.027312278747558594
+    },
+    {
+        "name": "quick",
+        "amount": 4900,
+        "compare": 92425,
+        "changes": 30400,
+        "time": 0.01967787742614746
+    },
+    {
+        "name": "dual",
+        "amount": 4900,
+        "compare": 64253,
+        "changes": 64094,
+        "time": 0.021472930908203125
+    },
+    {
+        "name": "amazing",
+        "amount": 4900,
+        "compare": 71853,
+        "changes": 31668,
+        "time": 0.016785860061645508
+    },
+    {
+        "name": "insert",
+        "amount": 5000,
+        "compare": 6227144,
+        "changes": 6227149,
+        "time": 2.397451400756836
+    },
+    {
+        "name": "merge",
+        "amount": 5000,
+        "compare": 42389,
+        "changes": 61808,
+        "time": 0.02916717529296875
+    },
+    {
+        "name": "quick",
+        "amount": 5000,
+        "compare": 93737,
+        "changes": 31100,
+        "time": 0.019674301147460938
+    },
+    {
+        "name": "dual",
+        "amount": 5000,
+        "compare": 63708,
+        "changes": 59362,
+        "time": 0.02203822135925293
+    },
+    {
+        "name": "amazing",
+        "amount": 5000,
+        "compare": 72861,
+        "changes": 32347,
+        "time": 0.017824649810791016
+    },
+    {
+        "name": "insert",
+        "amount": 5100,
+        "compare": 6373014,
+        "changes": 6373023,
+        "time": 2.235828161239624
+    },
+    {
+        "name": "merge",
+        "amount": 5100,
+        "compare": 44018,
+        "changes": 63208,
+        "time": 0.029516220092773438
+    },
+    {
+        "name": "quick",
+        "amount": 5100,
+        "compare": 91352,
+        "changes": 31766,
+        "time": 0.020046234130859375
+    },
+    {
+        "name": "dual",
+        "amount": 5100,
+        "compare": 61982,
+        "changes": 60320,
+        "time": 0.030037879943847656
+    },
+    {
+        "name": "amazing",
+        "amount": 5100,
+        "compare": 75028,
+        "changes": 33105,
+        "time": 0.026363849639892578
+    },
+    {
+        "name": "insert",
+        "amount": 5200,
+        "compare": 6711287,
+        "changes": 6711301,
+        "time": 2.4386229515075684
+    },
+    {
+        "name": "merge",
+        "amount": 5200,
+        "compare": 46154,
+        "changes": 64608,
+        "time": 0.0343930721282959
+    },
+    {
+        "name": "quick",
+        "amount": 5200,
+        "compare": 92040,
+        "changes": 32710,
+        "time": 0.02368307113647461
+    },
+    {
+        "name": "dual",
+        "amount": 5200,
+        "compare": 69212,
+        "changes": 76099,
+        "time": 0.024675846099853516
+    },
+    {
+        "name": "amazing",
+        "amount": 5200,
+        "compare": 75460,
+        "changes": 34044,
+        "time": 0.01861572265625
+    },
+    {
+        "name": "insert",
+        "amount": 5300,
+        "compare": 7028175,
+        "changes": 7028183,
+        "time": 2.55667781829834
+    },
+    {
+        "name": "merge",
+        "amount": 5300,
+        "compare": 47348,
+        "changes": 66008,
+        "time": 0.03211665153503418
+    },
+    {
+        "name": "quick",
+        "amount": 5300,
+        "compare": 99162,
+        "changes": 32924,
+        "time": 0.021842002868652344
+    },
+    {
+        "name": "dual",
+        "amount": 5300,
+        "compare": 74313,
+        "changes": 82377,
+        "time": 0.03536033630371094
+    },
+    {
+        "name": "amazing",
+        "amount": 5300,
+        "compare": 82095,
+        "changes": 34211,
+        "time": 0.01926565170288086
+    },
+    {
+        "name": "insert",
+        "amount": 5400,
+        "compare": 7374916,
+        "changes": 7374924,
+        "time": 2.778857707977295
+    },
+    {
+        "name": "merge",
+        "amount": 5400,
+        "compare": 47163,
+        "changes": 67408,
+        "time": 0.030955791473388672
+    },
+    {
+        "name": "quick",
+        "amount": 5400,
+        "compare": 100159,
+        "changes": 33686,
+        "time": 0.022383451461791992
+    },
+    {
+        "name": "dual",
+        "amount": 5400,
+        "compare": 72295,
+        "changes": 66352,
+        "time": 0.022907257080078125
+    },
+    {
+        "name": "amazing",
+        "amount": 5400,
+        "compare": 82832,
+        "changes": 35233,
+        "time": 0.018359899520874023
+    },
+    {
+        "name": "insert",
+        "amount": 5500,
+        "compare": 7614066,
+        "changes": 7614073,
+        "time": 2.7229747772216797
+    },
+    {
+        "name": "merge",
+        "amount": 5500,
+        "compare": 48948,
+        "changes": 68808,
+        "time": 0.032660722732543945
+    },
+    {
+        "name": "quick",
+        "amount": 5500,
+        "compare": 104805,
+        "changes": 34238,
+        "time": 0.022814512252807617
+    },
+    {
+        "name": "dual",
+        "amount": 5500,
+        "compare": 69672,
+        "changes": 71775,
+        "time": 0.02429986000061035
+    },
+    {
+        "name": "amazing",
+        "amount": 5500,
+        "compare": 87497,
+        "changes": 35609,
+        "time": 0.019960641860961914
+    },
+    {
+        "name": "insert",
+        "amount": 5600,
+        "compare": 7798013,
+        "changes": 7798024,
+        "time": 2.9198100566864014
+    },
+    {
+        "name": "merge",
+        "amount": 5600,
+        "compare": 48740,
+        "changes": 70208,
+        "time": 0.03219962120056152
+    },
+    {
+        "name": "quick",
+        "amount": 5600,
+        "compare": 101491,
+        "changes": 35476,
+        "time": 0.021146297454833984
+    },
+    {
+        "name": "dual",
+        "amount": 5600,
+        "compare": 75242,
+        "changes": 74858,
+        "time": 0.02703857421875
+    },
+    {
+        "name": "amazing",
+        "amount": 5600,
+        "compare": 83496,
+        "changes": 36880,
+        "time": 0.018863201141357422
+    },
+    {
+        "name": "insert",
+        "amount": 5700,
+        "compare": 8302582,
+        "changes": 8302586,
+        "time": 3.189692974090576
+    },
+    {
+        "name": "merge",
+        "amount": 5700,
+        "compare": 50215,
+        "changes": 71608,
+        "time": 0.03213071823120117
+    },
+    {
+        "name": "quick",
+        "amount": 5700,
+        "compare": 108844,
+        "changes": 36216,
+        "time": 0.023015975952148438
+    },
+    {
+        "name": "dual",
+        "amount": 5700,
+        "compare": 75484,
+        "changes": 63540,
+        "time": 0.02341914176940918
+    },
+    {
+        "name": "amazing",
+        "amount": 5700,
+        "compare": 85097,
+        "changes": 37598,
+        "time": 0.01980447769165039
+    },
+    {
+        "name": "insert",
+        "amount": 5800,
+        "compare": 8424521,
+        "changes": 8424533,
+        "time": 3.1900460720062256
+    },
+    {
+        "name": "merge",
+        "amount": 5800,
+        "compare": 50728,
+        "changes": 73008,
+        "time": 0.03319144248962402
+    },
+    {
+        "name": "quick",
+        "amount": 5800,
+        "compare": 107976,
+        "changes": 36954,
+        "time": 0.02653336524963379
+    },
+    {
+        "name": "dual",
+        "amount": 5800,
+        "compare": 75192,
+        "changes": 80441,
+        "time": 0.02595043182373047
+    },
+    {
+        "name": "amazing",
+        "amount": 5800,
+        "compare": 83622,
+        "changes": 38509,
+        "time": 0.021094560623168945
+    },
+    {
+        "name": "insert",
+        "amount": 5900,
+        "compare": 8709063,
+        "changes": 8709067,
+        "time": 3.3143742084503174
+    },
+    {
+        "name": "merge",
+        "amount": 5900,
+        "compare": 53687,
+        "changes": 74408,
+        "time": 0.03458547592163086
+    },
+    {
+        "name": "quick",
+        "amount": 5900,
+        "compare": 102992,
+        "changes": 37672,
+        "time": 0.023787975311279297
+    },
+    {
+        "name": "dual",
+        "amount": 5900,
+        "compare": 81475,
+        "changes": 75044,
+        "time": 0.02662515640258789
+    },
+    {
+        "name": "amazing",
+        "amount": 5900,
+        "compare": 84043,
+        "changes": 39242,
+        "time": 0.020775794982910156
+    },
+    {
+        "name": "insert",
+        "amount": 6000,
+        "compare": 8968755,
+        "changes": 8968764,
+        "time": 3.576080322265625
+    },
+    {
+        "name": "merge",
+        "amount": 6000,
+        "compare": 50694,
+        "changes": 75808,
+        "time": 0.035294294357299805
+    },
+    {
+        "name": "quick",
+        "amount": 6000,
+        "compare": 110239,
+        "changes": 38126,
+        "time": 0.02649545669555664
+    },
+    {
+        "name": "dual",
+        "amount": 6000,
+        "compare": 84403,
+        "changes": 74108,
+        "time": 0.028387784957885742
+    },
+    {
+        "name": "amazing",
+        "amount": 6000,
+        "compare": 91214,
+        "changes": 39427,
+        "time": 0.024485111236572266
+    },
+    {
+        "name": "insert",
+        "amount": 6100,
+        "compare": 9231860,
+        "changes": 9231865,
+        "time": 3.670400857925415
+    },
+    {
+        "name": "merge",
+        "amount": 6100,
+        "compare": 55592,
+        "changes": 77208,
+        "time": 0.040381431579589844
+    },
+    {
+        "name": "quick",
+        "amount": 6100,
+        "compare": 115438,
+        "changes": 38904,
+        "time": 0.024782419204711914
+    },
+    {
+        "name": "dual",
+        "amount": 6100,
+        "compare": 77897,
+        "changes": 73897,
+        "time": 0.028401851654052734
+    },
+    {
+        "name": "amazing",
+        "amount": 6100,
+        "compare": 89861,
+        "changes": 40424,
+        "time": 0.023802518844604492
+    },
+    {
+        "name": "insert",
+        "amount": 6200,
+        "compare": 9655821,
+        "changes": 9655832,
+        "time": 3.830387592315674
+    },
+    {
+        "name": "merge",
+        "amount": 6200,
+        "compare": 57604,
+        "changes": 78608,
+        "time": 0.04036402702331543
+    },
+    {
+        "name": "quick",
+        "amount": 6200,
+        "compare": 111839,
+        "changes": 39468,
+        "time": 0.027405977249145508
+    },
+    {
+        "name": "dual",
+        "amount": 6200,
+        "compare": 82336,
+        "changes": 80009,
+        "time": 0.02715468406677246
+    },
+    {
+        "name": "amazing",
+        "amount": 6200,
+        "compare": 92107,
+        "changes": 40989,
+        "time": 0.02180314064025879
+    },
+    {
+        "name": "insert",
+        "amount": 6300,
+        "compare": 9950903,
+        "changes": 9950910,
+        "time": 3.993839740753174
+    },
+    {
+        "name": "merge",
+        "amount": 6300,
+        "compare": 56141,
+        "changes": 80008,
+        "time": 0.03757357597351074
+    },
+    {
+        "name": "quick",
+        "amount": 6300,
+        "compare": 122441,
+        "changes": 40290,
+        "time": 0.025746822357177734
+    },
+    {
+        "name": "dual",
+        "amount": 6300,
+        "compare": 85131,
+        "changes": 79698,
+        "time": 0.02997303009033203
+    },
+    {
+        "name": "amazing",
+        "amount": 6300,
+        "compare": 102193,
+        "changes": 41856,
+        "time": 0.025232553482055664
+    },
+    {
+        "name": "insert",
+        "amount": 6400,
+        "compare": 10378710,
+        "changes": 10378719,
+        "time": 4.117950439453125
+    },
+    {
+        "name": "merge",
+        "amount": 6400,
+        "compare": 59925,
+        "changes": 81408,
+        "time": 0.048412322998046875
+    },
+    {
+        "name": "quick",
+        "amount": 6400,
+        "compare": 118950,
+        "changes": 40482,
+        "time": 0.025336027145385742
+    },
+    {
+        "name": "dual",
+        "amount": 6400,
+        "compare": 86164,
+        "changes": 82325,
+        "time": 0.030684947967529297
+    },
+    {
+        "name": "amazing",
+        "amount": 6400,
+        "compare": 98618,
+        "changes": 42050,
+        "time": 0.03381633758544922
+    },
+    {
+        "name": "insert",
+        "amount": 6500,
+        "compare": 10518394,
+        "changes": 10518402,
+        "time": 4.184669256210327
+    },
+    {
+        "name": "merge",
+        "amount": 6500,
+        "compare": 57833,
+        "changes": 82808,
+        "time": 0.03732752799987793
+    },
+    {
+        "name": "quick",
+        "amount": 6500,
+        "compare": 121313,
+        "changes": 41756,
+        "time": 0.025583744049072266
+    },
+    {
+        "name": "dual",
+        "amount": 6500,
+        "compare": 85715,
+        "changes": 81827,
+        "time": 0.02798628807067871
+    },
+    {
+        "name": "amazing",
+        "amount": 6500,
+        "compare": 100819,
+        "changes": 43236,
+        "time": 0.023949861526489258
+    },
+    {
+        "name": "insert",
+        "amount": 6600,
+        "compare": 10996903,
+        "changes": 10996908,
+        "time": 3.9839069843292236
+    },
+    {
+        "name": "merge",
+        "amount": 6600,
+        "compare": 57317,
+        "changes": 84208,
+        "time": 0.037403106689453125
+    },
+    {
+        "name": "quick",
+        "amount": 6600,
+        "compare": 114714,
+        "changes": 43050,
+        "time": 0.03345751762390137
+    },
+    {
+        "name": "dual",
+        "amount": 6600,
+        "compare": 95603,
+        "changes": 81553,
+        "time": 0.03781604766845703
+    },
+    {
+        "name": "amazing",
+        "amount": 6600,
+        "compare": 93646,
+        "changes": 44829,
+        "time": 0.030809879302978516
+    },
+    {
+        "name": "insert",
+        "amount": 6700,
+        "compare": 11174121,
+        "changes": 11174133,
+        "time": 4.0279762744903564
+    },
+    {
+        "name": "merge",
+        "amount": 6700,
+        "compare": 62576,
+        "changes": 85608,
+        "time": 0.03842806816101074
+    },
+    {
+        "name": "quick",
+        "amount": 6700,
+        "compare": 125052,
+        "changes": 42984,
+        "time": 0.026586532592773438
+    },
+    {
+        "name": "dual",
+        "amount": 6700,
+        "compare": 97166,
+        "changes": 88220,
+        "time": 0.030363082885742188
+    },
+    {
+        "name": "amazing",
+        "amount": 6700,
+        "compare": 103893,
+        "changes": 44642,
+        "time": 0.023880720138549805
+    },
+    {
+        "name": "insert",
+        "amount": 6800,
+        "compare": 11734094,
+        "changes": 11734102,
+        "time": 4.3621296882629395
+    },
+    {
+        "name": "merge",
+        "amount": 6800,
+        "compare": 64070,
+        "changes": 87008,
+        "time": 0.04006648063659668
+    },
+    {
+        "name": "quick",
+        "amount": 6800,
+        "compare": 121471,
+        "changes": 44012,
+        "time": 0.027512788772583008
+    },
+    {
+        "name": "dual",
+        "amount": 6800,
+        "compare": 93952,
+        "changes": 93646,
+        "time": 0.031162261962890625
+    },
+    {
+        "name": "amazing",
+        "amount": 6800,
+        "compare": 99809,
+        "changes": 45607,
+        "time": 0.02337646484375
+    },
+    {
+        "name": "insert",
+        "amount": 6900,
+        "compare": 11876551,
+        "changes": 11876565,
+        "time": 4.3053154945373535
+    },
+    {
+        "name": "merge",
+        "amount": 6900,
+        "compare": 64096,
+        "changes": 88408,
+        "time": 0.042090654373168945
+    },
+    {
+        "name": "quick",
+        "amount": 6900,
+        "compare": 122906,
+        "changes": 44688,
+        "time": 0.026208877563476562
+    },
+    {
+        "name": "dual",
+        "amount": 6900,
+        "compare": 90875,
+        "changes": 84950,
+        "time": 0.029103994369506836
+    },
+    {
+        "name": "amazing",
+        "amount": 6900,
+        "compare": 100892,
+        "changes": 46418,
+        "time": 0.02589106559753418
+    },
+    {
+        "name": "insert",
+        "amount": 7000,
+        "compare": 12320723,
+        "changes": 12320730,
+        "time": 4.476473331451416
+    },
+    {
+        "name": "merge",
+        "amount": 7000,
+        "compare": 63180,
+        "changes": 89808,
+        "time": 0.041554927825927734
+    },
+    {
+        "name": "quick",
+        "amount": 7000,
+        "compare": 132295,
+        "changes": 45250,
+        "time": 0.02781200408935547
+    },
+    {
+        "name": "dual",
+        "amount": 7000,
+        "compare": 94613,
+        "changes": 98967,
+        "time": 0.031931161880493164
+    },
+    {
+        "name": "amazing",
+        "amount": 7000,
+        "compare": 102763,
+        "changes": 46891,
+        "time": 0.024038076400756836
+    },
+    {
+        "name": "insert",
+        "amount": 7100,
+        "compare": 12442746,
+        "changes": 12442755,
+        "time": 4.79776668548584
+    },
+    {
+        "name": "merge",
+        "amount": 7100,
+        "compare": 62951,
+        "changes": 91208,
+        "time": 0.043942928314208984
+    },
+    {
+        "name": "quick",
+        "amount": 7100,
+        "compare": 130794,
+        "changes": 45882,
+        "time": 0.02834296226501465
+    },
+    {
+        "name": "dual",
+        "amount": 7100,
+        "compare": 99133,
+        "changes": 82979,
+        "time": 0.04047346115112305
+    },
+    {
+        "name": "amazing",
+        "amount": 7100,
+        "compare": 108212,
+        "changes": 47596,
+        "time": 0.035657405853271484
+    },
+    {
+        "name": "insert",
+        "amount": 7200,
+        "compare": 12884754,
+        "changes": 12884760,
+        "time": 4.826793432235718
+    },
+    {
+        "name": "merge",
+        "amount": 7200,
+        "compare": 65035,
+        "changes": 92608,
+        "time": 0.04226827621459961
+    },
+    {
+        "name": "quick",
+        "amount": 7200,
+        "compare": 128993,
+        "changes": 46978,
+        "time": 0.028721332550048828
+    },
+    {
+        "name": "dual",
+        "amount": 7200,
+        "compare": 99216,
+        "changes": 92103,
+        "time": 0.03201699256896973
+    },
+    {
+        "name": "amazing",
+        "amount": 7200,
+        "compare": 106000,
+        "changes": 48678,
+        "time": 0.025499820709228516
+    },
+    {
+        "name": "insert",
+        "amount": 7300,
+        "compare": 13416046,
+        "changes": 13416057,
+        "time": 4.856115341186523
+    },
+    {
+        "name": "merge",
+        "amount": 7300,
+        "compare": 65091,
+        "changes": 94008,
+        "time": 0.04357337951660156
+    },
+    {
+        "name": "quick",
+        "amount": 7300,
+        "compare": 138299,
+        "changes": 47562,
+        "time": 0.029574155807495117
+    },
+    {
+        "name": "dual",
+        "amount": 7300,
+        "compare": 95757,
+        "changes": 97000,
+        "time": 0.032564401626586914
+    },
+    {
+        "name": "amazing",
+        "amount": 7300,
+        "compare": 115033,
+        "changes": 49493,
+        "time": 0.02717113494873047
+    },
+    {
+        "name": "insert",
+        "amount": 7400,
+        "compare": 13665122,
+        "changes": 13665130,
+        "time": 5.081469535827637
+    },
+    {
+        "name": "merge",
+        "amount": 7400,
+        "compare": 69090,
+        "changes": 95408,
+        "time": 0.06356000900268555
+    },
+    {
+        "name": "quick",
+        "amount": 7400,
+        "compare": 146907,
+        "changes": 48010,
+        "time": 0.031119108200073242
+    },
+    {
+        "name": "dual",
+        "amount": 7400,
+        "compare": 103531,
+        "changes": 102371,
+        "time": 0.035141706466674805
+    },
+    {
+        "name": "amazing",
+        "amount": 7400,
+        "compare": 123077,
+        "changes": 49927,
+        "time": 0.02772688865661621
+    },
+    {
+        "name": "insert",
+        "amount": 7500,
+        "compare": 14117918,
+        "changes": 14117926,
+        "time": 5.051609754562378
+    },
+    {
+        "name": "merge",
+        "amount": 7500,
+        "compare": 70285,
+        "changes": 96808,
+        "time": 0.04345560073852539
+    },
+    {
+        "name": "quick",
+        "amount": 7500,
+        "compare": 132357,
+        "changes": 49648,
+        "time": 0.028745651245117188
+    },
+    {
+        "name": "dual",
+        "amount": 7500,
+        "compare": 105322,
+        "changes": 93909,
+        "time": 0.03260922431945801
+    },
+    {
+        "name": "amazing",
+        "amount": 7500,
+        "compare": 108334,
+        "changes": 51459,
+        "time": 0.030533790588378906
+    },
+    {
+        "name": "insert",
+        "amount": 7600,
+        "compare": 14556430,
+        "changes": 14556438,
+        "time": 5.495167255401611
+    },
+    {
+        "name": "merge",
+        "amount": 7600,
+        "compare": 66811,
+        "changes": 98208,
+        "time": 0.04361557960510254
+    },
+    {
+        "name": "quick",
+        "amount": 7600,
+        "compare": 147293,
+        "changes": 49132,
+        "time": 0.03139233589172363
+    },
+    {
+        "name": "dual",
+        "amount": 7600,
+        "compare": 101411,
+        "changes": 104365,
+        "time": 0.03449249267578125
+    },
+    {
+        "name": "amazing",
+        "amount": 7600,
+        "compare": 123052,
+        "changes": 51090,
+        "time": 0.028324127197265625
+    },
+    {
+        "name": "insert",
+        "amount": 7700,
+        "compare": 14763253,
+        "changes": 14763262,
+        "time": 5.433919668197632
+    },
+    {
+        "name": "merge",
+        "amount": 7700,
+        "compare": 72513,
+        "changes": 99608,
+        "time": 0.04658699035644531
+    },
+    {
+        "name": "quick",
+        "amount": 7700,
+        "compare": 139802,
+        "changes": 50726,
+        "time": 0.029628276824951172
+    },
+    {
+        "name": "dual",
+        "amount": 7700,
+        "compare": 103915,
+        "changes": 96123,
+        "time": 0.034294843673706055
+    },
+    {
+        "name": "amazing",
+        "amount": 7700,
+        "compare": 115191,
+        "changes": 52539,
+        "time": 0.02659296989440918
+    },
+    {
+        "name": "insert",
+        "amount": 7800,
+        "compare": 15173230,
+        "changes": 15173237,
+        "time": 5.579375982284546
+    },
+    {
+        "name": "merge",
+        "amount": 7800,
+        "compare": 73605,
+        "changes": 101008,
+        "time": 0.05154109001159668
+    },
+    {
+        "name": "quick",
+        "amount": 7800,
+        "compare": 147440,
+        "changes": 50572,
+        "time": 0.031224489212036133
+    },
+    {
+        "name": "dual",
+        "amount": 7800,
+        "compare": 112473,
+        "changes": 100554,
+        "time": 0.03620600700378418
+    },
+    {
+        "name": "amazing",
+        "amount": 7800,
+        "compare": 122573,
+        "changes": 52411,
+        "time": 0.028213977813720703
+    },
+    {
+        "name": "insert",
+        "amount": 7900,
+        "compare": 15675617,
+        "changes": 15675625,
+        "time": 6.443846225738525
+    },
+    {
+        "name": "merge",
+        "amount": 7900,
+        "compare": 71342,
+        "changes": 102408,
+        "time": 0.04749274253845215
+    },
+    {
+        "name": "quick",
+        "amount": 7900,
+        "compare": 145804,
+        "changes": 51594,
+        "time": 0.03893637657165527
+    },
+    {
+        "name": "dual",
+        "amount": 7900,
+        "compare": 109784,
+        "changes": 98173,
+        "time": 0.038947105407714844
+    },
+    {
+        "name": "amazing",
+        "amount": 7900,
+        "compare": 120733,
+        "changes": 53555,
+        "time": 0.03106689453125
+    },
+    {
+        "name": "insert",
+        "amount": 8000,
+        "compare": 16111627,
+        "changes": 16111636,
+        "time": 6.40764594078064
+    },
+    {
+        "name": "merge",
+        "amount": 8000,
+        "compare": 77184,
+        "changes": 103808,
+        "time": 0.05144667625427246
+    },
+    {
+        "name": "quick",
+        "amount": 8000,
+        "compare": 157752,
+        "changes": 52760,
+        "time": 0.03816580772399902
+    },
+    {
+        "name": "dual",
+        "amount": 8000,
+        "compare": 108808,
+        "changes": 103071,
+        "time": 0.0384371280670166
+    },
+    {
+        "name": "amazing",
+        "amount": 8000,
+        "compare": 124380,
+        "changes": 54710,
+        "time": 0.030414581298828125
+    },
+    {
+        "name": "insert",
+        "amount": 8100,
+        "compare": 16389669,
+        "changes": 16389677,
+        "time": 6.827147722244263
+    },
+    {
+        "name": "merge",
+        "amount": 8100,
+        "compare": 76378,
+        "changes": 105208,
+        "time": 0.04932761192321777
+    },
+    {
+        "name": "quick",
+        "amount": 8100,
+        "compare": 149010,
+        "changes": 53270,
+        "time": 0.039273977279663086
+    },
+    {
+        "name": "dual",
+        "amount": 8100,
+        "compare": 113221,
+        "changes": 104849,
+        "time": 0.05987834930419922
+    },
+    {
+        "name": "amazing",
+        "amount": 8100,
+        "compare": 123109,
+        "changes": 55192,
+        "time": 0.02774500846862793
+    },
+    {
+        "name": "insert",
+        "amount": 8200,
+        "compare": 17047630,
+        "changes": 17047637,
+        "time": 5.901127576828003
+    },
+    {
+        "name": "merge",
+        "amount": 8200,
+        "compare": 74791,
+        "changes": 106616,
+        "time": 0.045821428298950195
+    },
+    {
+        "name": "quick",
+        "amount": 8200,
+        "compare": 153448,
+        "changes": 54176,
+        "time": 0.03124260902404785
+    },
+    {
+        "name": "dual",
+        "amount": 8200,
+        "compare": 108831,
+        "changes": 105324,
+        "time": 0.03404116630554199
+    },
+    {
+        "name": "amazing",
+        "amount": 8200,
+        "compare": 127625,
+        "changes": 56210,
+        "time": 0.02779841423034668
+    },
+    {
+        "name": "insert",
+        "amount": 8300,
+        "compare": 17441067,
+        "changes": 17441074,
+        "time": 5.7223732471466064
+    },
+    {
+        "name": "merge",
+        "amount": 8300,
+        "compare": 75985,
+        "changes": 108116,
+        "time": 0.04664731025695801
+    },
+    {
+        "name": "quick",
+        "amount": 8300,
+        "compare": 168352,
+        "changes": 54286,
+        "time": 0.03258514404296875
+    },
+    {
+        "name": "dual",
+        "amount": 8300,
+        "compare": 114421,
+        "changes": 107051,
+        "time": 0.03556513786315918
+    },
+    {
+        "name": "amazing",
+        "amount": 8300,
+        "compare": 141820,
+        "changes": 56499,
+        "time": 0.029798269271850586
+    },
+    {
+        "name": "insert",
+        "amount": 8400,
+        "compare": 17411167,
+        "changes": 17411176,
+        "time": 5.733374357223511
+    },
+    {
+        "name": "merge",
+        "amount": 8400,
+        "compare": 80119,
+        "changes": 109616,
+        "time": 0.04902338981628418
+    },
+    {
+        "name": "quick",
+        "amount": 8400,
+        "compare": 155085,
+        "changes": 55114,
+        "time": 0.030744552612304688
+    },
+    {
+        "name": "dual",
+        "amount": 8400,
+        "compare": 111274,
+        "changes": 109679,
+        "time": 0.034604787826538086
+    },
+    {
+        "name": "amazing",
+        "amount": 8400,
+        "compare": 128436,
+        "changes": 57334,
+        "time": 0.02811431884765625
+    },
+    {
+        "name": "insert",
+        "amount": 8500,
+        "compare": 18202487,
+        "changes": 18202495,
+        "time": 6.194726228713989
+    },
+    {
+        "name": "merge",
+        "amount": 8500,
+        "compare": 78231,
+        "changes": 111116,
+        "time": 0.04789996147155762
+    },
+    {
+        "name": "quick",
+        "amount": 8500,
+        "compare": 157438,
+        "changes": 56296,
+        "time": 0.03152608871459961
+    },
+    {
+        "name": "dual",
+        "amount": 8500,
+        "compare": 119635,
+        "changes": 106312,
+        "time": 0.03538370132446289
+    },
+    {
+        "name": "amazing",
+        "amount": 8500,
+        "compare": 130284,
+        "changes": 58497,
+        "time": 0.028620481491088867
+    },
+    {
+        "name": "insert",
+        "amount": 8600,
+        "compare": 18415303,
+        "changes": 18415312,
+        "time": 6.060995817184448
+    },
+    {
+        "name": "merge",
+        "amount": 8600,
+        "compare": 80175,
+        "changes": 112616,
+        "time": 0.0487823486328125
+    },
+    {
+        "name": "quick",
+        "amount": 8600,
+        "compare": 164044,
+        "changes": 56612,
+        "time": 0.03256845474243164
+    },
+    {
+        "name": "dual",
+        "amount": 8600,
+        "compare": 122600,
+        "changes": 107538,
+        "time": 0.0371403694152832
+    },
+    {
+        "name": "amazing",
+        "amount": 8600,
+        "compare": 136449,
+        "changes": 58753,
+        "time": 0.02955150604248047
+    },
+    {
+        "name": "insert",
+        "amount": 8700,
+        "compare": 18942532,
+        "changes": 18942547,
+        "time": 6.45448637008667
+    },
+    {
+        "name": "merge",
+        "amount": 8700,
+        "compare": 79648,
+        "changes": 114116,
+        "time": 0.049164533615112305
+    },
+    {
+        "name": "quick",
+        "amount": 8700,
+        "compare": 158719,
+        "changes": 58030,
+        "time": 0.03198075294494629
+    },
+    {
+        "name": "dual",
+        "amount": 8700,
+        "compare": 123672,
+        "changes": 117822,
+        "time": 0.03785252571105957
+    },
+    {
+        "name": "amazing",
+        "amount": 8700,
+        "compare": 131435,
+        "changes": 60037,
+        "time": 0.028857946395874023
+    },
+    {
+        "name": "insert",
+        "amount": 8800,
+        "compare": 19176091,
+        "changes": 19176099,
+        "time": 6.352125644683838
+    },
+    {
+        "name": "merge",
+        "amount": 8800,
+        "compare": 79113,
+        "changes": 115616,
+        "time": 0.0490717887878418
+    },
+    {
+        "name": "quick",
+        "amount": 8800,
+        "compare": 163462,
+        "changes": 58570,
+        "time": 0.03406071662902832
+    },
+    {
+        "name": "dual",
+        "amount": 8800,
+        "compare": 119963,
+        "changes": 115181,
+        "time": 0.03721737861633301
+    },
+    {
+        "name": "amazing",
+        "amount": 8800,
+        "compare": 135176,
+        "changes": 60756,
+        "time": 0.02953791618347168
+    },
+    {
+        "name": "insert",
+        "amount": 8900,
+        "compare": 19951562,
+        "changes": 19951574,
+        "time": 6.591603994369507
+    },
+    {
+        "name": "merge",
+        "amount": 8900,
+        "compare": 79732,
+        "changes": 117116,
+        "time": 0.04961037635803223
+    },
+    {
+        "name": "quick",
+        "amount": 8900,
+        "compare": 163186,
+        "changes": 59640,
+        "time": 0.03320908546447754
+    },
+    {
+        "name": "dual",
+        "amount": 8900,
+        "compare": 128592,
+        "changes": 117218,
+        "time": 0.03868818283081055
+    },
+    {
+        "name": "amazing",
+        "amount": 8900,
+        "compare": 135025,
+        "changes": 61752,
+        "time": 0.02962803840637207
+    },
+    {
+        "name": "insert",
+        "amount": 9000,
+        "compare": 20323195,
+        "changes": 20323207,
+        "time": 6.685109615325928
+    },
+    {
+        "name": "merge",
+        "amount": 9000,
+        "compare": 82188,
+        "changes": 118616,
+        "time": 0.05048513412475586
+    },
+    {
+        "name": "quick",
+        "amount": 9000,
+        "compare": 172486,
+        "changes": 59454,
+        "time": 0.03374433517456055
+    },
+    {
+        "name": "dual",
+        "amount": 9000,
+        "compare": 127621,
+        "changes": 111831,
+        "time": 0.03758573532104492
+    },
+    {
+        "name": "amazing",
+        "amount": 9000,
+        "compare": 143883,
+        "changes": 61577,
+        "time": 0.03125452995300293
+    },
+    {
+        "name": "insert",
+        "amount": 9100,
+        "compare": 20903083,
+        "changes": 20903092,
+        "time": 6.97946572303772
+    },
+    {
+        "name": "merge",
+        "amount": 9100,
+        "compare": 84023,
+        "changes": 120116,
+        "time": 0.05207109451293945
+    },
+    {
+        "name": "quick",
+        "amount": 9100,
+        "compare": 185527,
+        "changes": 60102,
+        "time": 0.035828590393066406
+    },
+    {
+        "name": "dual",
+        "amount": 9100,
+        "compare": 124328,
+        "changes": 118916,
+        "time": 0.038434505462646484
+    },
+    {
+        "name": "amazing",
+        "amount": 9100,
+        "compare": 147445,
+        "changes": 62264,
+        "time": 0.03139209747314453
+    },
+    {
+        "name": "insert",
+        "amount": 9200,
+        "compare": 21178763,
+        "changes": 21178771,
+        "time": 7.105198860168457
+    },
+    {
+        "name": "merge",
+        "amount": 9200,
+        "compare": 84878,
+        "changes": 121616,
+        "time": 0.052010536193847656
+    },
+    {
+        "name": "quick",
+        "amount": 9200,
+        "compare": 183401,
+        "changes": 60144,
+        "time": 0.03549838066101074
+    },
+    {
+        "name": "dual",
+        "amount": 9200,
+        "compare": 128073,
+        "changes": 121979,
+        "time": 0.04124021530151367
+    },
+    {
+        "name": "amazing",
+        "amount": 9200,
+        "compare": 153831,
+        "changes": 62403,
+        "time": 0.033551692962646484
+    },
+    {
+        "name": "insert",
+        "amount": 9300,
+        "compare": 21922877,
+        "changes": 21922883,
+        "time": 7.459598541259766
+    },
+    {
+        "name": "merge",
+        "amount": 9300,
+        "compare": 86829,
+        "changes": 123116,
+        "time": 0.05647706985473633
+    },
+    {
+        "name": "quick",
+        "amount": 9300,
+        "compare": 177600,
+        "changes": 61986,
+        "time": 0.037468671798706055
+    },
+    {
+        "name": "dual",
+        "amount": 9300,
+        "compare": 134675,
+        "changes": 117579,
+        "time": 0.044516563415527344
+    },
+    {
+        "name": "amazing",
+        "amount": 9300,
+        "compare": 147759,
+        "changes": 64413,
+        "time": 0.03329968452453613
+    },
+    {
+        "name": "insert",
+        "amount": 9400,
+        "compare": 21937437,
+        "changes": 21937447,
+        "time": 7.259196996688843
+    },
+    {
+        "name": "merge",
+        "amount": 9400,
+        "compare": 86452,
+        "changes": 124616,
+        "time": 0.055376291275024414
+    },
+    {
+        "name": "quick",
+        "amount": 9400,
+        "compare": 175593,
+        "changes": 62988,
+        "time": 0.03623223304748535
+    },
+    {
+        "name": "dual",
+        "amount": 9400,
+        "compare": 130589,
+        "changes": 119287,
+        "time": 0.039647817611694336
+    },
+    {
+        "name": "amazing",
+        "amount": 9400,
+        "compare": 145517,
+        "changes": 65417,
+        "time": 0.0317540168762207
+    },
+    {
+        "name": "insert",
+        "amount": 9500,
+        "compare": 22501416,
+        "changes": 22501428,
+        "time": 7.559585332870483
+    },
+    {
+        "name": "merge",
+        "amount": 9500,
+        "compare": 86942,
+        "changes": 126116,
+        "time": 0.05608105659484863
+    },
+    {
+        "name": "quick",
+        "amount": 9500,
+        "compare": 189582,
+        "changes": 63436,
+        "time": 0.037744998931884766
+    },
+    {
+        "name": "dual",
+        "amount": 9500,
+        "compare": 129746,
+        "changes": 119281,
+        "time": 0.04188680648803711
+    },
+    {
+        "name": "amazing",
+        "amount": 9500,
+        "compare": 149768,
+        "changes": 65950,
+        "time": 0.037780046463012695
+    },
+    {
+        "name": "insert",
+        "amount": 9600,
+        "compare": 23019399,
+        "changes": 23019408,
+        "time": 7.997760772705078
+    },
+    {
+        "name": "merge",
+        "amount": 9600,
+        "compare": 90896,
+        "changes": 127616,
+        "time": 0.05661916732788086
+    },
+    {
+        "name": "quick",
+        "amount": 9600,
+        "compare": 180160,
+        "changes": 64738,
+        "time": 0.03725314140319824
+    },
+    {
+        "name": "dual",
+        "amount": 9600,
+        "compare": 140099,
+        "changes": 121695,
+        "time": 0.041745662689208984
+    },
+    {
+        "name": "amazing",
+        "amount": 9600,
+        "compare": 149624,
+        "changes": 67123,
+        "time": 0.03290224075317383
+    },
+    {
+        "name": "insert",
+        "amount": 9700,
+        "compare": 23336655,
+        "changes": 23336662,
+        "time": 8.250860452651978
+    },
+    {
+        "name": "merge",
+        "amount": 9700,
+        "compare": 90445,
+        "changes": 129116,
+        "time": 0.06743073463439941
+    },
+    {
+        "name": "quick",
+        "amount": 9700,
+        "compare": 183987,
+        "changes": 65068,
+        "time": 0.0395050048828125
+    },
+    {
+        "name": "dual",
+        "amount": 9700,
+        "compare": 131416,
+        "changes": 125060,
+        "time": 0.04303288459777832
+    },
+    {
+        "name": "amazing",
+        "amount": 9700,
+        "compare": 152988,
+        "changes": 67460,
+        "time": 0.034229278564453125
+    },
+    {
+        "name": "insert",
+        "amount": 9800,
+        "compare": 24018781,
+        "changes": 24018791,
+        "time": 9.111471891403198
+    },
+    {
+        "name": "merge",
+        "amount": 9800,
+        "compare": 95388,
+        "changes": 130616,
+        "time": 0.06550478935241699
+    },
+    {
+        "name": "quick",
+        "amount": 9800,
+        "compare": 192975,
+        "changes": 65186,
+        "time": 0.04497718811035156
+    },
+    {
+        "name": "dual",
+        "amount": 9800,
+        "compare": 139188,
+        "changes": 131413,
+        "time": 0.04911065101623535
+    },
+    {
+        "name": "amazing",
+        "amount": 9800,
+        "compare": 161686,
+        "changes": 67698,
+        "time": 0.041192054748535156
+    },
+    {
+        "name": "insert",
+        "amount": 9900,
+        "compare": 24378251,
+        "changes": 24378259,
+        "time": 9.580700635910034
+    },
+    {
+        "name": "merge",
+        "amount": 9900,
+        "compare": 92358,
+        "changes": 132116,
+        "time": 0.06723141670227051
+    },
+    {
+        "name": "quick",
+        "amount": 9900,
+        "compare": 193805,
+        "changes": 66230,
+        "time": 0.046727657318115234
+    },
+    {
+        "name": "dual",
+        "amount": 9900,
+        "compare": 138949,
+        "changes": 137677,
+        "time": 0.04997444152832031
+    },
+    {
+        "name": "amazing",
+        "amount": 9900,
+        "compare": 152157,
+        "changes": 68810,
+        "time": 0.04189944267272949
+    },
+    {
+        "name": "insert",
+        "amount": 10000,
+        "compare": 25033213,
+        "changes": 25033222,
+        "time": 9.440361738204956
+    },
+    {
+        "name": "merge",
+        "amount": 10000,
+        "compare": 91424,
+        "changes": 133616,
+        "time": 0.06493616104125977
+    },
+    {
+        "name": "quick",
+        "amount": 10000,
+        "compare": 193565,
+        "changes": 66954,
+        "time": 0.04236412048339844
+    },
+    {
+        "name": "dual",
+        "amount": 10000,
+        "compare": 146800,
+        "changes": 126506,
+        "time": 0.04997134208679199
+    },
+    {
+        "name": "amazing",
+        "amount": 10000,
+        "compare": 161635,
+        "changes": 69392,
+        "time": 0.04134249687194824
+    }
+]
